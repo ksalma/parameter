@@ -1,4 +1,4 @@
-print ('this is a test thingy')
+
 import jenkins
 
 server = jenkins.Jenkins('http://localhost:8080', username='myuser', password='mypassword')
